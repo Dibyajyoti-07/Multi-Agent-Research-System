@@ -153,7 +153,7 @@ The system demonstrates three different document chunking approaches:
 
 ```
 .
-├── Dibyajyoti_Sarkar_RCCIIT_Internship_25_final.ipynb  # Main notebook
+├── Multi_Agent_Research_Architecture.ipynb  # Main notebook
 ├── requirements.txt                                      # Python dependencies
 ├── .env                                                  # API keys (not committed)
 ├── .gitignore                                           # Git ignore rules
@@ -204,18 +204,13 @@ The system generates a structured Markdown report with:
    - System falls back to original document
    - Consider using Recursive chunking for reliability
 
-## 🤝 Contributing
-
-This project was created for the RCCIIT Internship coding task. For questions or improvements, please contact the author.
-
 ## 📝 License
 
 This project is created for educational and evaluation purposes.
 
 ## 👤 Author
 
-**Dibyajyoti Sarkar**  
-RCCIIT Internship Candidate 2025
+**Dibyajyoti Sarkar**
 
 ## 🙏 Acknowledgments
 
@@ -223,5 +218,6 @@ RCCIIT Internship Candidate 2025
 - Groq for LLM API access
 - Tavily for web search capabilities
 - RCCIIT for the internship opportunity
-"# Multi-Agent-Research-System" 
+  "# Multi-Agent-Research-System"
+
 # Multi-Agent-Research-System
