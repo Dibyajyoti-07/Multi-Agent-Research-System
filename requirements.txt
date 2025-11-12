@@ -1,0 +1,13 @@
+langgraph
+langchain
+langchain-core
+langchain_community
+chromadb
+tavily-python
+sentence-transformers
+langchain-groq
+langchain-tavily
+pymupdf
+unstructured
+pydantic
+python-dotenv
