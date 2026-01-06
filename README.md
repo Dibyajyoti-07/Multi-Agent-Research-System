@@ -217,7 +217,6 @@ This project is created for educational and evaluation purposes.
 - LangChain and LangGraph teams
 - Groq for LLM API access
 - Tavily for web search capabilities
-- RCCIIT for the internship opportunity
-  "# Multi-Agent-Research-System"
+- Multi-Agent-Research-System"
 
 # Multi-Agent-Research-System
